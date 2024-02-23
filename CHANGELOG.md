@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [2024-02-16 - 2024-02-23]
+
+...
+
 ## [2022-07-01 - 2022-07-08]
 
 * **Переклад(JS):** web/javascript/reference/global_objects/array/join (#422) ([10d5c22](https://github.com/webdoky/content/commit/10d5c22f8eb60e7b36ce5aeeaf236cdf8d4297d3))
